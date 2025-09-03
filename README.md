@@ -1,10 +1,12 @@
 💳 Credit Card Fraud Detection & Power BI Visualization
+
 📌 Overview
 
 This project demonstrates a credit card fraud detection system using Machine Learning (Random Forest & Decision Trees), combined with Power BI dashboards for visualization.
 Fraudulent transactions pose a major risk in the financial industry, and leveraging ML models provides a scalable and effective way to detect such anomalies in real time.
 
 ⚙️ How It Works
+
 🔹 1. Data Preprocessing
 
 Cleaned the dataset by handling missing values.
